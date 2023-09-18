@@ -29,5 +29,7 @@ public class Program {
         System.out.println(st.name + ":");
         System.out.println(st.finalGrade());
 
+        sc.close();
+
     }
 }
